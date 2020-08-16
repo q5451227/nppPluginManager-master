@@ -1,0 +1,30 @@
+﻿  adler32.c
+  compress.c
+  crc32.c
+  deflate.c
+  gzclose.c
+  gzlib.c
+  gzread.c
+  gzwrite.c
+  infback.c
+  inffast.c
+  inflate.c
+  inftrees.c
+c1 : fatal error C1083: 无法打开源文件: “zlib\adler32.c”: No such file or directory
+c1 : fatal error C1083: 无法打开源文件: “zlib\gzlib.c”: No such file or directory
+c1 : fatal error C1083: 无法打开源文件: “zlib\deflate.c”: No such file or directory
+c1 : fatal error C1083: 无法打开源文件: “zlib\crc32.c”: No such file or directory
+c1 : fatal error C1083: 无法打开源文件: “zlib\gzwrite.c”: No such file or directory
+  trees.c
+c1 : fatal error C1083: 无法打开源文件: “zlib\compress.c”: No such file or directory
+c1 : fatal error C1083: 无法打开源文件: “zlib\gzclose.c”: No such file or directory
+c1 : fatal error C1083: 无法打开源文件: “zlib\inffast.c”: No such file or directory
+  uncompr.c
+c1 : fatal error C1083: 无法打开源文件: “zlib\infback.c”: No such file or directory
+c1 : fatal error C1083: 无法打开源文件: “zlib\gzread.c”: No such file or directory
+  zutil.c
+c1 : fatal error C1083: 无法打开源文件: “zlib\inflate.c”: No such file or directory
+c1 : fatal error C1083: 无法打开源文件: “zlib\inftrees.c”: No such file or directory
+c1 : fatal error C1083: 无法打开源文件: “zlib\trees.c”: No such file or directory
+c1 : fatal error C1083: 无法打开源文件: “zlib\zutil.c”: No such file or directory
+c1 : fatal error C1083: 无法打开源文件: “zlib\uncompr.c”: No such file or directory
